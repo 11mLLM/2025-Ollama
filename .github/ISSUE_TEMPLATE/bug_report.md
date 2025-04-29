@@ -1,6 +1,9 @@
 ---
-name: 담당자 이름/닉네임 
-part: 부서/팀/소속
+name: Tracking issue
+about: Use this template for tracking new features.
+title: "[DATE]: [FEATURE NAME]"
+labels: tracking issue, needs triage
+assignees: octocat
 ---
 ## 이슈 분류
 
