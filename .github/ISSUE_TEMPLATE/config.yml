@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 문의사항
+    url: https://example.com/support
+    about: 다른 문제가 있다면 여기에 문의하세요.
+
