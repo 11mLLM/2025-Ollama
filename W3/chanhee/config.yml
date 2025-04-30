@@ -1,0 +1,26 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ✉️ 일반 문의
+    url: mailto:happilyfly@naver.com
+    about: 개발 외 문의는 이 이메일을 통해 문의해주세요.
+
+issue_templates:
+  - name: 🐛 Bug Report
+    description: 버그나 예외 상황을 보고합니다.
+    file: bug_report.md
+
+  - name: ✨ Feature Request
+    description: 새로운 기능을 제안합니다.
+    file: feature_request.md
+
+  - name: 🛠️ Tech Task
+    description: 내부 개발 작업을 위한 태스크입니다.
+    file: tech_task.md
+
+  - name: ❓ General Question
+    description: 질문이나 궁금한 점을 남겨주세요.
+    file: general_question.md
+
+  - name: 📝 Documentation Improvement
+    description: 문서를 개선하고 싶은 부분을 알려주세요.
+    file: docs_improvement.md
